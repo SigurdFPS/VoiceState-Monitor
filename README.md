@@ -16,7 +16,7 @@ VoiceStateClient is a lightweight desktop application that integrates with your 
 
 ## 📦 Download & Install
 
-1. **Head to the [Releases](https://github.com/yourusername/VoiceStateClient/releases)** page.
+1. **Head to the **[RELEASES] : https://github.com/SigurdFPS/VoiceState-Monitor/releases/tag/VoiceState** page.
 2. **Download the latest `.exe` installer** for Windows.
 3. Run the installer and follow the one-click install flow.
 
@@ -74,4 +74,4 @@ If not found, click **Scan for VoiceState Box**.
 
 ## 📄 License
 
-MIT License © [SigurdFPS](https://github.com/yourusername)
+MIT License © [SigurdFPS](https://github.com/SigurdFPS)
