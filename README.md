@@ -7,7 +7,7 @@ VoiceStateClient is a lightweight desktop application that integrates with your 
 ## ✅ Features
 
 - 🔒 Secure Discord OAuth login
-- 🧠 Automatic device scan for VoiceState Box (Raspberry Pi Pico)
+- 🧠 Automatic device scan for VoiceState Box
 - 💡 LED sync for Mute / Unmute status
 - 🪟 Clean, tray-based UI (minimizes to system tray)
 - 🔁 Auto-launch on system startup (optional)
